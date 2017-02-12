@@ -5,6 +5,8 @@ import java.awt.*;
 
 public class GameFrame extends JFrame {
 
+    // Made by Todd Griffin
+
     public static int WIDTH = 1000;
     public static int HEIGHT = WIDTH/16*10;
 
