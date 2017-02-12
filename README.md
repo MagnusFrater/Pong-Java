@@ -1,3 +1,3 @@
 # Pong-Java
 
-Experimenting with game development using Java.
+Experiment with game development using Java.
